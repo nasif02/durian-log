@@ -2,6 +2,11 @@ package android.util;
 
 public class Log {
 
+    /**
+     * Method to debug
+     * @param tag
+     * @param msg
+     */
     public static void d(String tag, String msg) {
         System.out.println(tag + " : " + msg);
     }
