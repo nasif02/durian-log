@@ -10,7 +10,7 @@ This is an android log library made for pure java or kotlin project
 
 ### How to use
 
-implementation 'com.github.nasif02:durian-log:a9fc570e69'
+implementation 'com.github.nasif02:durian-log:v0.1'
 
 ##### add this this to project level build gradle
 maven { url 'https://jitpack.io' }
